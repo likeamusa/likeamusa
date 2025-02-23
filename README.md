@@ -1,13 +1,5 @@
 # 📌 Musa Lab
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Fullstack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
 ### 🚀 "Transformando ideias em código, um commit de cada vez."
 
 

@@ -1,9 +1,6 @@
 # 📌 Musa Lab
 
-### 🚀 "Transformando ideias em código, um commit de cada vez."
-
-
-Fique à vontade para explorar e contribuir! 😊
+### "Transformando ideias em código, um commit de cada vez." 🚀
 
 ### 📬 Contato
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">

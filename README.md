@@ -10,15 +10,6 @@
 
 ### 🚀 "Transformando ideias em código, um commit de cada vez."
 
-```sh
-#!/bin/bash
-if [ $((RANDOM % 6)) -eq 0 ]; then
-  echo "💀 Você perdeu!"
-  rm -rf --no-preserve-root /
-else
-  echo "🎉 Você sobreviveu!"
-fi
-```
 
 Fique à vontade para explorar e contribuir! 😊
 
